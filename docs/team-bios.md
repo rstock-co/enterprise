@@ -6,7 +6,7 @@
 
 > *"My professional journey has been marked by a mission to enhance software maintainability and team skillsets. I have successfully navigated through various platforms without locking into one technology, preferring timeless approaches adaptable across tools. My goal remains to provide value, craft outstanding code, and stimulate an environment where positive growth is the norm."*
 
-Elite software engineer with 30+ years of programming experience dating back to the 1990s. Recognized as a top-tier developer globally (top 5%), JP has built his career at some of the world's most demanding technology companies including Amazon, Google, and EA Sports. At his peak, JP commanded compensation exceeding $1M annually.
+Elite software engineer with 20+ years of professional programming experience. Recognized as a top-tier developer globally (top 5%), JP has built his career at some of the world's most demanding technology companies including Amazon, Google, and EA Sports. At his peak, JP commanded compensation exceeding $1M annually.
 
 Currently serving as **Software Artisan at Sentry** (4 years), JP is the top performer at his company, investing $3,000+ monthly in Claude Code credits alone. His mastery of AI-augmented programming positions him at the cutting edge of modern software development.
 
