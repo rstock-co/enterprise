@@ -73,7 +73,7 @@ JP's preference: **One repo, not multi-repo.**
 
 ### Everyone Has
 - [x] Richard — Claude Code installed
-- [x] JP — Claude Code installed (heavy user, $3K+/mo)
+- [x] JP — Claude Code installed (heavy user)
 - [x] Matt — Claude Code installed
 
 ### Primitives to Build

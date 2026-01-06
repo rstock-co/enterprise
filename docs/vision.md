@@ -77,7 +77,7 @@ We don't come in with preconceived product ideas. We let AI analyze the landscap
 
 **JP Boodhoo — Co-Founder**
 - Creator of **The Forge** — our multi-agent orchestration harness
-- Elite Claude Code operator ($3K+/month in credits, top performer at his company)
+- Elite Claude Code operator (invests thousands monthly in credits)
 - Quality assurance on AI-generated code and architecture
 - Decades of pattern recognition to validate AI recommendations
 
