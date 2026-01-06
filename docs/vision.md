@@ -66,6 +66,11 @@ We don't come in with preconceived product ideas. We let AI analyze the landscap
 
 ## Team Roles
 
+**Matt Kennedy — Co-Founder**
+- Fresh perspective on AI-native workflows
+- Rapid skill development in agent orchestration
+- Execution capacity as skills develop
+
 **Richard Stock — Co-Founder**
 - Operational leadership and execution discipline
 - Business administration and stakeholder management
@@ -75,11 +80,6 @@ We don't come in with preconceived product ideas. We let AI analyze the landscap
 - Elite Claude Code operator ($3K+/month in credits, top performer at his company)
 - Quality assurance on AI-generated code and architecture
 - Decades of pattern recognition to validate AI recommendations
-
-**Matt Kennedy — Co-Founder**
-- Fresh perspective on AI-native workflows
-- Rapid skill development in agent orchestration
-- Execution capacity as skills develop
 
 ---
 

@@ -96,7 +96,7 @@ Matt's trajectory positions him to grow rapidly in AI development—a field wher
 
 **Role:** Co-Founder
 
-Full-stack developer with 10+ years of software development experience combined with 7+ years of engineering project management leadership. Expert in systems analysis who transforms complex challenges into elegant, scalable solutions. Currently developing a **multi-agent orchestration harness** built on Claude Code—positioning the team at the bleeding edge of AI-native software architecture.
+Full-stack developer with 10+ years of software development experience combined with 7+ years of engineering project management leadership. Expert in systems analysis who transforms complex challenges into elegant, scalable solutions.
 
 **Professional Experience:**
 
@@ -137,7 +137,7 @@ Full-stack developer with 10+ years of software development experience combined 
 - Leadership forged through managing $25M+ high-stakes infrastructure projects
 - Full-stack production expertise: React, .NET, SQL, Next.js
 - Event Modeling training directly from Adam Dymitruk
-- Claude Code expertise with deep experience in AI agent orchestration
+- Claude Code operator with AI-augmented development experience
 - Mentored by JP Boodhoo — now partnering with him to build this enterprise
 
 ---

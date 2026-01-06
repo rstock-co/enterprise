@@ -4,9 +4,9 @@ Monorepo for the enterprise — vision, systems, and products.
 
 ## Co-Founders
 
-- **Richard Stock**
 - **JP Boodhoo**
 - **Matt Kennedy**
+- **Richard Stock**
 
 ## 2026 Mission
 
