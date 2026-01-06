@@ -2,7 +2,7 @@
 
 ## JP Boodhoo (John Paul Boodhoo)
 
-**Role:** Technical Co-Founder / Lead Developer
+**Role:** Co-Founder
 
 > *"My professional journey has been marked by a mission to enhance software maintainability and team skillsets. I have successfully navigated through various platforms without locking into one technology, preferring timeless approaches adaptable across tools. My goal remains to provide value, craft outstanding code, and stimulate an environment where positive growth is the norm."*
 
@@ -77,7 +77,7 @@ Currently serving as **Software Artisan at Sentry** (4 years), JP is the top per
 
 ## Matt Kennedy
 
-**Role:** Co-Founder / Emerging AI Developer
+**Role:** Co-Founder
 
 A talented newcomer to the development world, Matt brings raw intelligence, creativity, and an exceptional work ethic to the team. While new to programming, Matt possesses the natural aptitude and cognitive abilities that mark high-potential technical talent.
 
@@ -94,7 +94,7 @@ Matt's trajectory positions him to grow rapidly in AI development—a field wher
 
 ## Richard Stock
 
-**Role:** Founder / CEO
+**Role:** Co-Founder
 
 Full-stack developer with 10+ years of software development experience combined with 7+ years of engineering project management leadership. Expert in systems analysis who transforms complex challenges into elegant, scalable solutions. Currently developing a **multi-agent orchestration harness** built on Claude Code—positioning the team at the bleeding edge of AI-native software architecture.
 
