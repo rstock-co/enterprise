@@ -86,31 +86,31 @@
 | Name | .com | .ca | .ai | .net |
 |------|------|-----|-----|------|
 | Launchbox | ❌ | ❌ | ❌ | ❌ |
-| Buildbox | ❌ | ✅ | ❌ | ❌ |
+| Buildbox | ❌ | ❌ | ❌ | ❌ |
 | Forgebox | ❌ | ✅ | ✅ | ❌ |
-| Shipbox | ❌ | ✅ | ❌ | ❌ |
+| Shipbox | ❌ | ❌ | ❌ | ❌ |
 | Sparkbox | ❌ | ❌ | ❌ | ❌ |
 | Boltbox | ❌ | ✅ | ✅ | ❌ |
-| Fluxbox | ❌ | ✅ | ✅ | ❌ |
+| Fluxbox | ❌ | ✅ | ❌ | ❌ |
 | Thrustbox | ❌ | ✅ | ✅ | ✅ |
 
 ### -labs Names
 | Name | .com | .ca | .ai | .net |
 |------|------|-----|-----|------|
 | Launchlabs | ❌ | ❌ | ❌ | ❌ |
-| Shiplabs | ❌ | ✅ | ❌ | ✅ |
+| Shiplabs | ❌ | ❌ | ❌ | ✅ |
 | Forgelabs | ❌ | ❌ | ❌ | ❌ |
 | Buildlabs | ❌ | ✅ | ❌ | ❌ |
 | Sparklabs | ❌ | ❌ | ❌ | ❌ |
 | Thrustlabs | ❌ | ✅ | ✅ | ✅ |
-| Velocitylabs | ❌ | ✅ | ❌ | ✅ |
-| Ignitionlabs | ❌ | ❌ | ✅ | ❌ |
+| Velocitylabs | ❌ | ✅ | ❌ | ❌ |
+| Ignitionlabs | ❌ | ❌ | ❌ | ❌ |
 
 ### -works Names
 | Name | .com | .ca | .ai | .net |
 |------|------|-----|-----|------|
 | Launchworks | ❌ | ❌ | ❌ | ❌ |
-| Shipworks | ❌ | ✅ | ❌ | ✅ |
+| Shipworks | ❌ | ✅ | ❌ | ❌ |
 | Forgeworks | ❌ | ❌ | ❌ | ❌ |
 | Buildworks | ❌ | ❌ | ❌ | ❌ |
 | Sparkworks | ❌ | ❌ | ❌ | ❌ |
@@ -120,7 +120,7 @@
 | Name | .com | .ca | .ai | .net |
 |------|------|-----|-----|------|
 | Launchforge | ❌ | ✅ | ❌ | ✅ |
-| Shipforge | ❌ | ✅ | ✅ | ✅ |
+| Shipforge | ❌ | ✅ | ✅ | ❌ |
 | Rapidforge | ❌ | ✅ | ❌ | ✅ |
 | Sparkforge | ❌ | ❌ | ❌ | ❌ |
 | Buildforge | ❌ | ✅ | ❌ | ❌ |
@@ -148,7 +148,7 @@
 | Buildhub | ❌ | ❌ | ❌ | ❌ |
 | Shiphub | ❌ | ❌ | ❌ | ❌ |
 | Forgehub | ❌ | ✅ | ❌ | ❌ |
-| Sparkhub | ❌ | ✅ | ❌ | ❌ |
+| Sparkhub | ❌ | ❌ | ❌ | ❌ |
 
 ### -bay Names
 | Name | .com | .ca | .ai | .net |
@@ -168,16 +168,16 @@
 ### -port Names
 | Name | .com | .ca | .ai | .net |
 |------|------|-----|-----|------|
-| Launchport | ❌ | ✅ | ✅ | ❌ |
+| Launchport | ❌ | ❌ | ✅ | ❌ |
 | Shipport | ❌ | ✅ | ✅ | ❌ |
 | Buildport | ❌ | ✅ | ✅ | ✅ |
 
 ### -base Names
 | Name | .com | .ca | .ai | .net |
 |------|------|-----|-----|------|
-| Launchbase | ❌ | ✅ | ❌ | ✅ |
+| Launchbase | ❌ | ❌ | ❌ | ❌ |
 | Buildbase | ❌ | ❌ | ❌ | ❌ |
-| Shipbase | ❌ | ✅ | ❌ | ✅ |
+| Shipbase | ❌ | ❌ | ❌ | ✅ |
 | Forgebase | ❌ | ✅ | ❌ | ❌ |
 
 ### -kit Names
@@ -201,7 +201,7 @@
 |------|------|-----|-----|------|
 | Launchstack | ❌ | ✅ | ❌ | ❌ |
 | Buildstack | ❌ | ❌ | ❌ | ❌ |
-| Shipstack | ❌ | ✅ | ❌ | ❌ |
+| Shipstack | ❌ | ❌ | ❌ | ❌ |
 
 ### Single Word Names
 | Name | .com | .ca | .ai | .net |
@@ -306,9 +306,28 @@ If serious about a name where .com is taken, budget ~$300-500 CAD for a **Canadi
 - warpship.ca
 - veloxio.ca
 - hyprscale.ca
+- forgelab.ca (.com for sale)
+- launchforge.ca
+- productforge.ca (.com is blank)
+- aiforgelabs.ca
+- buildlabs.ca
+- aibuildlabs.ca
+- forgehub.ca
+
 
 ### .COM
 - bildwork.com
 - hyprlaunch.com
 - shypwork.com
 - warpshipcollective.com
+- aiproductforge.com
+- ignitionailab.com
+- truthailabs.com
+
+### .AI
+- hyprforge.ai
+- buildcollective.ai
+- shipfactory.ai
+- forgevault.ai
+- productvault.ai
+- shipstudio.ai
