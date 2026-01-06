@@ -22,7 +22,7 @@ This isn't AI as a tool we use occasionally. This is AI as an extension of our t
 
 ### Phase 1: Build the Harness
 
-Richard is developing a multi-agent orchestration system on top of Claude Code. This harness allows us to:
+JP has developed **The Forge** — a multi-agent orchestration system on top of Claude Code. This harness allows us to:
 
 - Coordinate multiple AI agents working in parallel
 - Manage complex, multi-step workflows
@@ -66,17 +66,17 @@ We don't come in with preconceived product ideas. We let AI analyze the landscap
 
 ## Team Roles
 
-**Richard Stock — Founder / CEO**
-- Primary architect of the multi-agent orchestration harness
+**Richard Stock — Co-Founder**
 - Operational leadership and execution discipline
 - Business administration and stakeholder management
 
-**JP Boodhoo — Technical Co-Founder**
+**JP Boodhoo — Co-Founder**
+- Creator of **The Forge** — our multi-agent orchestration harness
 - Elite Claude Code operator ($3K+/month in credits, top performer at his company)
 - Quality assurance on AI-generated code and architecture
 - Decades of pattern recognition to validate AI recommendations
 
-**Matt Kennedy — Co-Founder / Emerging AI Developer**
+**Matt Kennedy — Co-Founder**
 - Fresh perspective on AI-native workflows
 - Rapid skill development in agent orchestration
 - Execution capacity as skills develop
@@ -112,8 +112,8 @@ We're not competing on ideas. We're competing on:
 We're betting that in 2026 and beyond, the winners won't be the smartest humans in the room. The winners will be the humans who know how to operate AI most effectively.
 
 We have:
-- An elite developer who's already proven he can leverage Claude Code at scale (JP)
-- An architect building the orchestration infrastructure (Richard)
+- An elite developer who built The Forge and operates Claude Code at scale (JP)
+- An experienced operator with leadership and execution discipline (Richard)
 - A high-potential operator ready to grow into the role (Matt)
 
 The three of us, working together, operating AI as a unified team — that's the enterprise.
